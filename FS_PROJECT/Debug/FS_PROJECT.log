@@ -1,0 +1,4 @@
+﻿  FS_PROJECT.cpp
+c:\users\archit\source\repos\fs_project\fs_project\fs_project.cpp(38): warning C4101: 'd': unreferenced local variable
+c:\users\archit\source\repos\fs_project\fs_project\fs_project.cpp(35): warning C4101: 'flag': unreferenced local variable
+  FS_PROJECT.vcxproj -> C:\Users\Archit\source\repos\FS_PROJECT\Debug\FS_PROJECT.exe

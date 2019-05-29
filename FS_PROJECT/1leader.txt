@@ -1,0 +1,4 @@
+2|ashish|21
+1|ashish|7
+1|archit|2
+1|archit|1

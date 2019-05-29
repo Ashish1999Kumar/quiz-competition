@@ -1,0 +1,5 @@
+﻿  user.cpp
+c:\users\acer\downloads\fs_project\fs_project\user.cpp(136): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+c:\users\acer\downloads\fs_project\fs_project\user.cpp(183): warning C4101: 'pos': unreferenced local variable
+c:\users\acer\downloads\fs_project\fs_project\user.cpp(301): warning C4101: 'rusn': unreferenced local variable
+  FS_PROJECT.vcxproj -> C:\Users\ACER\Downloads\FS_PROJECT\x64\Debug\FS_PROJECT.exe
